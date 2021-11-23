@@ -7,6 +7,7 @@ Today, of course, relational databases render such methods largely superfluous o
 The attached two part paper describes the method of Time Frames and its syntax.  My purpose for including this on github is two fold:
 1.	To store it for posterity, and
 2.	To expose it to a wider audience, just in case someone finds it useful.
+
 The paper is split in two parts – pages 1-4 and pages 5-8.  This simply to get around the github 25 Mb file limit.  I hope someone finds it of interest.
 
 Ron Bentley
