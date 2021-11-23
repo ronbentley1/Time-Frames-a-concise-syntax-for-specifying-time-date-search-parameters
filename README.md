@@ -1,4 +1,4 @@
-# Time-Frames-a-concise-sytax-for-specifying-time-date-search-parameters
+# Time-Frames-a-concise-syntax-for-specifying-time-date-search-parameters
 
 I was clearing papers recently and I came across a paper I developed in the mid 1980s concerning the design of a method and syntax that could be used to specify time/date search parameters for searching chronologically structured databases.  That is a file system that stored a database as a linear time ordered file, such that record Rn would occur physically before a record Rn+1 for all n > 0.  Data stored on a magnetic tape is a perfect example of such a file system.  The method/syntax is referred to as “Time Frames”.
 
